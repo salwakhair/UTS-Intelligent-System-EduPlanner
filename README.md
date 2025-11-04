@@ -7,6 +7,8 @@
 | NIM | Nama |
 |-----|------|
 | 4522210066 | **Salwa Khairu Mista** |
+| 4522210037 | **Raihan Alfisa Saugi** |
+| 4522210040 | **Daffa Abraar Sajuti** |
 
 ---
 
